@@ -1,7 +1,19 @@
 Muhamad Arvin Zulfikar 
 Nurshandy Nuzul Ramadhani 
-Nasywah Nabilah Putri 
-Novi Andriani 
+Nasywah Nabilah Putri  - 1202213065
+<<<<<<< HEAD
+Novi Andriani - 1202210416
 Dio Alif Ananda 
 
 SHSHSHSHSHSHSHSHSHSHSHSHS
+
+=======
+Novi Andriani 
+<<<<<<< HEAD
+Dio Alif Ananda 1202210413
+=======
+Dio Alif Ananda 
+
+SHSHSHSHSHSHSHSHSHSHSHSHS
+>>>>>>> 6422bf2b66ffcebf74e879314ae8a90095f68824
+>>>>>>> eb9034a4bfc2f42160f3341b669c29ef90245dbf
