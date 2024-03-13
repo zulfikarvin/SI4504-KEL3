@@ -2,4 +2,10 @@ Muhamad Arvin Zulfikar
 Nurshandy Nuzul Ramadhani 
 Nasywah Nabilah Putri 
 Novi Andriani 
+<<<<<<< HEAD
 Dio Alif Ananda 1202210413
+=======
+Dio Alif Ananda 
+
+SHSHSHSHSHSHSHSHSHSHSHSHS
+>>>>>>> 6422bf2b66ffcebf74e879314ae8a90095f68824
